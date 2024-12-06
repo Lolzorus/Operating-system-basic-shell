@@ -1,0 +1,10 @@
+1
+2
+a.out
+cn-decouper.c
+fichier2.txt
+fichier.txt
+garder
+hb-pipe.c
+projet5.c
+source
